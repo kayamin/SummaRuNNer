@@ -1,0 +1,3 @@
+How learning enhances neural representations for behaviorally relevant stimuli via activity changes of cortical cell types remains unclear.
+ We simultaneously imaged responses of pyramidal cells (PYR) along with parvalbumin (PV), somatostatin (SOM), and vasoactive intestinal peptide (VIP) inhibitory interneurons in primary visual cortex while mice learned to discriminate visual patterns.
+ Thus, learning differentially shapes the activity and interactions of multiple cell classes: while SOM inhibition may gate selectivity changes, PV interneurons become recruited into stimulus-specific ensembles and provide more selective inhibition as the network becomes better at discriminating behaviorally relevant stimuli

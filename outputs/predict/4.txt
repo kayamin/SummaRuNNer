@@ -1,0 +1,3 @@
+Delta-secretase cleaves both APP and Tau to mediate the formation of amyloid plaques and neurofibrillary tangle in Alzheimer’s disease (AD).
+ We find that C/EBPβ regulates delta-secretase transcription and protein levels in an age-dependent manner.
+ Overexpression of C/EBPβ in young 3xTg mice increases delta-secretase and accelerates the pathological features including cognitive dysfunctions, which is abolished by inactive AEP C189S.

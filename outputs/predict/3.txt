@@ -1,0 +1,3 @@
+Delay discounting (DD), the tendency to discount the value of delayed versus current rewards, is elevated in a constellation of diseases and behavioral conditions.
+ We performed a genome-wide association study of DD using 23,127 research participants of European ancestry.
+ We also showed that 12% of the variance in DD was accounted for by genotype and that the genetic signature of DD overlapped with attention-deficit/hyperactivity disorder, schizophrenia, major depression, smoking, personality, cognition and body weight

@@ -29,10 +29,12 @@ def rouge():
     r.system_filename_pattern = '(\d+).txt'
     r.model_filename_pattern = '#ID#.txt'
 
-    command = '-e /YOUR/PATH/TO/ROUGE-1.5.5/data -a -c 95 -m -n 2 -b 75'
+    command = '-e /Users/a_shika/Desktop/Python_Script/pyrouge/tools/ROUGE-1.5.5/data -a -c 95 -m -n 2'
     output = r.convert_and_evaluate(rouge_args=command)
     print(output)
 
 if __name__ == '__main__':
     remove_broken_files()
+    os.system('printenv')
+    print("start evaluation")
     rouge()
