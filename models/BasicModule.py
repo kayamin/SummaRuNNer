@@ -1,6 +1,9 @@
 import torch
 from torch.autograd import Variable
 class BasicModule(torch.nn.Module):
+    """
+    This class is a basic module for RNN_RNN, AttnRNN, CNN_RNN
+    """
 
     def __init__(self, args):
         super(BasicModule,self).__init__()
@@ -8,6 +11,8 @@ class BasicModule(torch.nn.Module):
         self.model_name = str(type(self))
 
     def pad_doc(self,words_out,doc_lens):
+        # (全Doc 全文章数) x (Hidden次元) -> (全Doc) x (各Doc文章数+padding) x (Hidden次元) の変換をするメソッド
+
         pad_dim = words_out.size(1)
         max_doc_len = max(doc_lens)
         sent_input = []
